@@ -14,7 +14,6 @@
     "rehype-raw": "^6.1.1",
     "remark-frontmatter": "^4.0.1",
     "remark-gfm": "^3.0.1",
-    "remark-mdx-frontmatter": "^3.0.0",
     "solid-jsx": "^0.9.1",
     "solid-start-mdx": "^0.2.26",
     "solid-start-node": "^0.2.19",
